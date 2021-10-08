@@ -9,7 +9,7 @@ int main()
 	cout << "Hallo Lieber Lehrer!" << endl;
 	cout << "Wie heisst du? ";
 	cin >> name;
-	cout << "Hallo " << name << endl;
+	cout << "Hallo Liebe(r)" << name << endl;
 	
 	return 0;
 }
